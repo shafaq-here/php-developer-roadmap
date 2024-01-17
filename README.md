@@ -50,7 +50,7 @@ The repository is created when working on the following YouTube video [PHP Devel
 |-----------------------------------------------|--------|----------------------------------------------|
 | Basic html project                            | 1.5 hrs| https://www.youtube.com/watch?v=ivQu28EALJQ               |
 | Linktree project using html+css (responsive)  | 30 min     | https://www.youtube.com/watch?v=drC5Ey5vxcU             |
-| HTML Full Course - Build a Website Tutorial   | 2h     | https://youtu.be/pQN-pnXPaVg                 |
+| Responsive Landing page   | 2h     | [https://youtu.be/pQN-pnXPaVg ](https://www.youtube.com/watch?v=ZN9GQHAwqyc)                |
 | CSS Crash Course For Absolute Beginners       | 1h 25m | https://youtu.be/yfoY53QXEnI                 |
 | CSS Tutorial - Zero to Hero (Complete Course) | 6h 18m | https://youtu.be/1Rs2ND1ryYc                 |
 
