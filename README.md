@@ -41,7 +41,7 @@ The repository is created when working on the following YouTube video [PHP Devel
 ### Browser/Server request flow, HTTP Protocol, Status codes
 | Resource Name                   |Duration| Resource                                                |
 |---------------------------------|--------|---------------------------------------------------------|
-| HTTP Crash Course & Exploration | 38m    | https://youtu.be/iYM2zFP3Zn0                            |
+| HTTP Crash Course & Exploration | 38m✅    | https://youtu.be/iYM2zFP3Zn0                            |
 | MDN HTTP Tutorial               |        | https://developer.mozilla.org/en-US/docs/Web/HTTP       |
 | Wikipedia Status Codes          |        | https://en.wikipedia.org/wiki/List_of_HTTP_status_codes |
 
